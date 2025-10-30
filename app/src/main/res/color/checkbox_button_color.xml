@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Botón pulsado y activo -->
+    <item android:color="#80FFFFFF" android:state_checked="true" />
+
+    <!-- Botón en reposo -->
+    <item android:color="#33FFFFFF" />
+
+</selector>
